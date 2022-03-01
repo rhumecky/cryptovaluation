@@ -4,6 +4,11 @@ You can download the Jypyter Notebook for this project from:
 
 https://drive.google.com/drive/folders/1zd2FUV0GBfvzkU4lVUAL7LAEwgNuzGna?usp=sharing
 
+The .csv of crypto data for modeling and predictions is available at:
+
+https://drive.google.com/file/d/15GVKi5NAqel6-gJk8s4Uet4-pZ5lOVMw/view?usp=sharing
+
+
 
 ### Overview
 
